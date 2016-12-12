@@ -1,0 +1,65 @@
+.blue, .red, .green, .yellow, .grey, .orang {
+	min-height: 100px;
+}
+
+.blue {
+	background: blue;
+}
+
+.red {
+	background: red;
+}
+
+.green {
+	background: green;
+}
+
+.yellow {
+	background: yellow;
+}
+
+.orang {
+	background: #FE9A2E;
+}
+
+.grey {
+	background: #E6E0F8;
+	margin-bottom: 20px;
+}
+
+.r-1 {
+	margin-bottom: 10px;
+}
+.r2{
+	margin-bottom: 10px;
+}
+
+.c1 {
+	margin-right: 10px;
+}
+
+.b {
+	border-bottom: 1px solid grey;
+}
+
+img {
+	margin-bottom: 10px;
+}
+
+h1	{
+	margin-top: 0;
+	padding-top: 15px;
+}
+
+ul {
+	padding-left: 0;
+}
+
+ul li {
+	list-style: none;
+	border-bottom: 1px solid grey;
+}
+
+.w_blue {
+	background: #81F7F3;
+}
